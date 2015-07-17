@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alexchia/slack-screenshot#readme",
   "dependencies": {
-    "express": "^4.13.1"
+    "express": "^4.13.1",
+    "url2png": "^6.0.2"
   }
 }
